@@ -1,0 +1,22 @@
+/*------------------------------------------------------------------
+   Color Variation In AutoMax---------------------------------------
+*/
+/*------------------------------------------------------------------
+   Font Variation In AutoMax---------------------------------------
+*/
+.comment-author-email-url {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -10px;
+  margin-right: -10px; }
+
+.comment-author-email-url > p {
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto; }
+
+.comment-author-email-url > p input {
+  width: 100%; }
